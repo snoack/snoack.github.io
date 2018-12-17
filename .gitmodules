@@ -1,3 +1,6 @@
 [submodule "how-adblockers-work"]
 	path = how-adblockers-work
 	url = https://github.com/snoack/how-adblockers-work
+[submodule "detroit-pitch"]
+	path = detroit-pitch
+	url = https://gitlab.com/snoack/detroit-pitch
